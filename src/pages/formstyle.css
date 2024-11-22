@@ -1,0 +1,34 @@
+/* styles.css */
+.form-label {
+    font-weight: bold;
+    color: #495057;
+  }
+  
+  .form-control {
+    border-radius: 0.25rem;
+    padding: 0.5rem;
+  }
+  
+  button {
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    float:right;
+  }
+
+
+  .form-container{
+    margin-top:5%;
+display: flex
+;
+justify-content: center;
+height:60vh;
+  }
+  form{
+    display: flex;
+    flex-direction: column;
+
+    width:550px;
+  }
+  footer{
+    bottom:0px;
+  }
